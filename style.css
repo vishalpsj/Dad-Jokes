@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+html{
+    font-size: 62.5%;
+}
+body{
+    position: relative;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    background-color: pink;
+    padding: 1rem;
+}
+
+h1{
+    color: rgb(204, 20, 51);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 5rem;
+    position: absolute;
+    top: 2rem;
+}
+.jokeBox{
+    background-color: rgb(241, 136, 154);
+    width: auto;
+    border: 2px solid rgb(216, 29, 60);
+    font-size: 2.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2rem;
+    color: #111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 2px, 10px, 5px 3px rgba(0, 0, 0, 0.3);
+
+}
+
+button{
+    background-color: green;
+    border: 2px solid black;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    padding: .8rem 1.6rem;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+}
