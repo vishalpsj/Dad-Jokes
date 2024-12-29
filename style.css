@@ -62,4 +62,5 @@ button{
     bottom: 1rem;
     right: 1rem;
     font-family: "Inconsolata", serif;
+    -webkit-tap-highlight-color: transparent;
 }
