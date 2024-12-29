@@ -58,9 +58,9 @@ button{
     font-size: 2rem;
     padding: .8rem 1.6rem;
     border-radius: 20px;
-    position: absolute;
+    /* position: absolute;
     bottom: 1rem;
-    right: 1rem;
+    right: 1rem; */
     font-family: "Inconsolata", serif;
     -webkit-tap-highlight-color: transparent;
 }
