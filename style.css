@@ -67,7 +67,7 @@ button{
     padding: .8rem 1.6rem;
     border-radius: 20px;
     position: absolute;
-    bottom: 3rem;
+    bottom: 10rem;
     
     font-family: "Inconsolata", serif;
     -webkit-tap-highlight-color: transparent;
