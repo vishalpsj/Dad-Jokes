@@ -1,0 +1,14 @@
+/* mobile first approach */
+
+@media screen and (min-width: 320px) {
+    html{
+        font-size: 62.5%;
+    }
+    
+}
+@media screen and (min-width: 728px) {
+    html{
+        font-size: 80%;
+    }
+
+}

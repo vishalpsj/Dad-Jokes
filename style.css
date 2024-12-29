@@ -26,17 +26,17 @@ body{
 
 h1{
     color: rgb(204, 20, 51);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Rubik Vinyl", serif;
     font-size: 5rem;
     position: absolute;
-    top: 2rem;
+    top: 3rem;
 }
 .jokeBox{
     background-color: rgb(241, 136, 154);
     width: auto;
     border: 2px solid rgb(216, 29, 60);
     font-size: 2.5rem;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Urbanist", serif;
     padding: 2rem;
     color: #111;
     display: flex;
@@ -61,4 +61,5 @@ button{
     position: absolute;
     bottom: 1rem;
     right: 1rem;
+    font-family: "Inconsolata", serif;
 }
